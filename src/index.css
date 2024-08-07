@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.highcharts-background {
+    position: relative !important;
+    z-index: 0 !important;
+  }
+  
+  .highcharts-container {
+    position: relative !important;
+    z-index: 1 !important;
+  }
+  
+  .highcharts-root {
+    position: relative !important;
+    z-index: 2 !important;
+  }
+  

@@ -1,0 +1,80 @@
+
+{
+  "weather":{
+    "city": "Sample City",
+    "country": "Sample Country",
+    "forecast": [
+      {
+        "date": "2024-08-01",
+        "temperature": {
+          "min": 20,
+          "max": 30
+        },
+        "description": "Sunny",
+        "humidity": 60,
+        "windSpeed": 10
+      },
+      {
+        "date": "2024-08-02",
+        "temperature": {
+          "min": 22,
+          "max": 32
+        },
+        "description": "Partly Cloudy",
+        "humidity": 65,
+        "windSpeed": 12
+      },
+      {
+        "date": "2024-08-03",
+        "temperature": {
+          "min": 19,
+          "max": 28
+        },
+        "description": "Rainy",
+        "humidity": 80,
+        "windSpeed": 15
+      },
+      {
+        "date": "2024-08-04",
+        "temperature": {
+          "min": 21,
+          "max": 31
+        },
+        "description": "Thunderstorms",
+        "humidity": 85,
+        "windSpeed": 20
+      },
+      {
+        "date": "2024-08-05",
+        "temperature": {
+          "min": 23,
+          "max": 33
+        },
+        "description": "Cloudy",
+        "humidity": 70,
+        "windSpeed": 8
+      },
+      {
+        "date": "2024-08-06",
+        "temperature": {
+          "min": 18,
+          "max": 27
+        },
+        "description": "Sunny",
+        "humidity": 55,
+        "windSpeed": 5
+      },
+      {
+        "date": "2024-08-07",
+        "temperature": {
+          "min": 20,
+          "max": 29
+        },
+        "description": "Windy",
+        "humidity": 60,
+        "windSpeed": 25
+      }
+    ]
+  }
+  
+}
